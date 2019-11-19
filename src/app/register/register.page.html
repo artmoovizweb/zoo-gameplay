@@ -1,0 +1,26 @@
+  
+  <ion-content padding>
+      <div class="logo">
+          <img [width]="200" [height]="200" src="../../assets/logo_name/logo_name(1).png">
+      </div> 
+  
+      <ion-item class="register">
+            <ion-label position="floating">Identifiant</ion-label>
+            <ion-input type="text" [(ngModel)]="username"></ion-input>
+      </ion-item>
+  
+          <ion-item class="register">
+              <ion-label position="floating">Mot de passe</ion-label>
+              <ion-input type="password" [(ngModel)]="password"></ion-input>
+          </ion-item>
+
+          <ion-item class="register2">
+              <ion-label position="floating">Confirmer mot de passe</ion-label>
+              <ion-input type="password" [(ngModel)]="cpassword"></ion-input>
+          </ion-item>
+          <ion-button expand="block" (click)="register()">S'enregister</ion-button>
+          <ion-button fill="solid" expand="block" color="dark" [routerLink]="['/login']">Se connecter</ion-button>
+  
+          <!-- <h6 [routerLink]="['/login']">Se connecter</h6> -->
+  </ion-content>
+  

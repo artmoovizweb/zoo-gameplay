@@ -1,0 +1,27 @@
+<ion-content padding>
+   
+    <!-- <lottie-animation-view [options]="lottieConfig" [width]="200" [height]="200">
+        </lottie-animation-view> -->
+        <div class="logo">
+        <img [width]="200" [height]="200" src="../../assets/logo_name/logo_name(1).png">
+        </div> 
+        <div class="loginInformation">
+            <ion-item class="login">
+            <ion-label position="floating">Identifiant</ion-label>
+            <ion-input type="text" [(ngModel)]="username"></ion-input>
+            </ion-item>
+
+            <ion-item class="login2">
+                <ion-label position="floating">Mot de passe</ion-label>
+                <ion-input type="password" [(ngModel)]="password"></ion-input>
+            </ion-item>
+        </div>
+
+        <ion-button expand="block" (click)="login()">Connexion</ion-button>
+        <ion-button expand="block" >Facebook</ion-button>
+
+        <ion-button fill="solid" expand="block" color="dark" [routerLink]="['/register']">S'inscrire</ion-button>
+
+        <!-- <h6 [routerLink]="['/register']">S'inscrire</h6> -->
+
+</ion-content>

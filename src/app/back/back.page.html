@@ -1,0 +1,36 @@
+
+<ion-content padding>
+
+    <lottie-animation-view [options]="lottieConfig" [width]="200" [height]="200">
+ 
+      </lottie-animation-view>
+
+
+    <ion-card class="teck" [routerLink]="">
+        <ion-card-header>
+          <ion-card-title>Ajouter un nouveau teck</ion-card-title>
+        </ion-card-header>
+      
+        <ion-card-content>
+          Keep close to Nature's heart... and break clear away, once in awhile,
+          and climb a mountain or spend a week in the woods. Wash your spirit clean.
+        </ion-card-content>
+    </ion-card>
+    <div class="end-page">
+      <ion-chip class="img-icon">
+        <ion-icon [routerLink]="['/question-game']" name="refresh" ></ion-icon>
+        <ion-label>Rejouer</ion-label>
+      </ion-chip>
+
+      <ion-chip [routerLink]="" class="img-icon">
+          <ion-icon name="share" ></ion-icon>
+          <ion-label>Partager</ion-label>
+        </ion-chip>
+
+        <ion-chip [routerLink]="['/choose']" class="img-icon">
+            <ion-icon name="undo" ></ion-icon>
+            <ion-label>Partie</ion-label>
+          </ion-chip>
+      </div>
+        
+  </ion-content>

@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Lato';
+    font-weight: 100;
+    font-style: normal;
+    src: local('Lato Regular'),
+         url('../assets/font/Lato-Light.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Lato';
+    font-weight: 100;
+    font-style: italic;
+    src: local('Lato Italic'),
+         url('../assets/font/Lato-Medium.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'MuseoSansRounded';
+    font-weight: 400;
+    font-style: normal;
+    src: local('MuseoSansRounded'),
+         url('../assets/font/MuseoSansRounded-700.otf') format('otf');
+  }
+
+  @font-face {
+    font-family: 'MuseoSansRounded';
+    font-weight: 400;
+    font-style: normal;
+    src: local('MuseoSansRounded'),
+         url('../assets/font/MuseoSansRounded-900.otf') format('otf');
+  }
+  

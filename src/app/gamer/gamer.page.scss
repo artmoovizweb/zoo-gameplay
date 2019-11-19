@@ -1,0 +1,71 @@
+.login{
+    color: azure;
+}
+.login2{
+    color: azure;
+    padding-bottom: 30px;
+}
+
+
+h6{
+ text-align:center;
+ color:#c5c4c2;
+ padding-top: 20px;
+}
+
+
+.padding {
+    padding: 7%!important;
+}
+
+.logo {
+    position: relative;
+    top: 5%;
+    left: 25%;
+    right: 25%;
+
+    padding-bottom: 90px;
+}
+
+ion-content {
+    // --ion-background-color: linear-gradient(#6DD5FA, #2980B9);
+   --ion-background-color:#3E3153;
+    // --ion-background-color: linear-gradient(#485563, #29323c);
+}
+ion-item {
+    --ion-background-color: transparent!important;
+}
+#text{
+    padding : 15%;
+    color: white;
+}
+
+.item{
+    --ion-background-color: transparent!important;
+    color: white !important;
+}
+
+.item text{
+    --ion-background-color: transparent!important;
+    color: white !important;
+}
+
+#text .input-wrapper{
+    text-align: right;
+}
+
+.nameIcon{
+    position: relative;
+    top:0;
+    left:80%;
+}
+.nameIcon2{
+    position: relative;
+    top:0;
+    left:100%;
+}
+.bouton{
+    position: relative;
+    right: 45%;
+    bottom: 0;
+}

@@ -1,0 +1,25 @@
+
+<ion-content tappable padding>
+    <!-- fab placed to the top start -->
+      
+    <ion-fab horizontal="start" vertical="top" slot="fixed">
+            <ion-fab-button color="light">
+              <ion-icon name="add"></ion-icon>
+            </ion-fab-button>
+            <ion-fab-list side="end">
+              <ion-fab-button color="light">
+                <ion-icon name="person-add" (click)="goAddPlayer()"></ion-icon>
+              </ion-fab-button>
+              <ion-fab-button color="light">
+                <ion-icon name="menu" (click)="goMenu()"></ion-icon>
+              </ion-fab-button>
+            </ion-fab-list>
+    </ion-fab>
+
+    <div (click)="setQuestion()" class="question-container">     
+        <h3>{{activeQuestion}}</h3>
+    </div>
+
+  </ion-content>
+ <!-- <ion-button expand="block"class="button" color="light" *ngIf="playerList.length>0" (click)="confirmationButton()" 
+        [routerLink]="['/question-game']">Jouer</ion-button> -->

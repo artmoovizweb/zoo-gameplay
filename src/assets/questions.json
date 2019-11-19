@@ -1,0 +1,480 @@
+{
+	"Questions": [{
+			"question": "Ou se trouve Big Ben ? player",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "player Quel est le livre le plus publié au monde ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "player Qui avait pour surnom le Roi Soleil ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quelle était la profession d’Andy Warhol ? player",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Qui a peint la Joconde ? player",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": " player Dans quel sport peut-on faire un TouchDown ?",
+			"background": "#e74c3c"
+		},
+
+		{
+			"question": "player Qui fut le célèbre dictateur dirigeant l’URSS de 1920 à 1953 ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "Dans quel pays se trouve Barcelone ?player ",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "player Quel célèbre empereur a dit « le sort en est jeté » ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel pays a remporté la coupe du monde de football en 2018 ?",
+			"background": ""
+		},
+
+		{
+			"question": "Dans quelle ville italienne se situe l’action de la pièce de Shakespeare « Roméo et juliette » ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "Qui était le dieu de la vigne, du vin et de la folie dans la mythologie grecque ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Quel roi de France proclame l’édit de Nantes ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Quel est le plus long fleuve de France ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Le drapeau français est bleu, blanc et… ?",
+			"background": ""
+		},
+
+		{
+			"question": "En quel année eu lieu l’armistice de la première guerre mondiale ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Dans quelle ville se trouve le Colisée ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel est l’album le plus vendu au monde ?",
+			"background": "#27ae60"
+		},
+
+		{
+			"question": "Dans quelle ville se trouve le Colisée ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "En quelle année fut la chute du mur de Berlin ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Qui a écrit la comédie « Le malade imaginaire » ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Combien de film comprends la saga Harry Potter ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Quel animal peut être tigre ou marteau ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "En quelle année marcha pour la première fois l’homme sur la lune ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Quel chanteur a gagné Rolland Garros ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel grand philosophe a dit : « Je pense, donc je suis » ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Quel président succède à George Bush en 1992 ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Quel est le plus petit état du monde ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Quel est le male de la truie ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Quelle est la ville de Superman ?",
+			"background": "#bdc3c7"
+		},
+
+		{
+			"question": "Dans quel film d’animation trouve t-on le personnage de Woody ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "Quel personnage d’animation dit : « vers l’infini l’au-delà ».",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Quel est le plus grand état du monde ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Quel pays a pour surnom « le pays du Soleil levant » ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Dans quel sport peut-on mettre un essai ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Quel est le pays le plus peuplé du monde ?",
+			"background": "#95a5a6"
+		},
+
+
+		{
+			"question": "Quelle est la capitale du Canada ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "De quelle série vient « Winter is coming ! » ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quelle est la capitale des Etats-Unis ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Ou se trouve la pyramide de Khéops ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "A qui doit-on YMCA ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Dans quelle saga trouve-t-on la réplique « Luke je suis ton père » ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Qui est le fidèle acolyte de Sherlock Holmes ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel être marche à 4 pattes le matin, à 2 le midi et à 3 le soir ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel est le pays d’origine de Mozart ?",
+			"background": "#e74c3c"
+		},
+
+		{
+			"question": "Combien il y a de joueurs sur le terrain dans une équipe de football ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Quelle créature mythologique était mi-homme, mi- cheval ?",
+			"background": "#2ecc71"
+		},
+
+		{
+			"question": "Quel célèbre narcotrafiquant a eu le droit à une série par Netflix ?",
+			"background": "#1abc9c"
+		},
+
+		{
+			"question": "De quel générique vient : « un jour, je serai le meilleur dresseur ! » ?",
+			"background": "#16a085"
+		},
+
+		{
+			"question": "Comment appelle-t-on un joueur de tennis de table ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Œil pour œil, … Finis la phrase ?",
+			"background": "#27ae60"
+		},
+
+		{
+			"question": "Qui fut président en France le 14 mai 2017 ?",
+			"background": "#16a085"
+		},
+
+		{
+			"question": "Qui fut président en France le 14 mai 2017 ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Comment s’appelle le premier ministre de Macron ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Qui a créé Facebook ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quelle célèbre plateforme permet de poster des vidéos en ligne ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Quelle est la capitale de l’Australie ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Comment est mort le président Kennedy ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "Combien de bosse à un dromadaire ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Comment s’appelle le personnage principal dans Retour vers le Futur ?",
+			"background": "#2ecc71"
+		},
+
+		{
+			"question": "Quelle ville est surnommé « Big Apple » aux États-Unis ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "De combien de syllabes est composé un alexandrin ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Quel chanteur a popularisé le Moon walk ?",
+			"background": "#f39c12"
+		},
+
+		{
+			"question": "Qui est le plus grand joueur de basket de tous les temps ?",
+			"background": "#95a5a6"
+		},
+
+		{
+			"question": "Quelle styliste signe ses chaussures d’une semelle rouge ?",
+			"background": "#7f8c8d"
+		},
+
+
+		{
+			"question": "En quelle année est mort Michael Jackson ?",
+			"background": "#e74c3c"
+		},
+
+		{
+			"question": "Quel océan borde l’île Maurice ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quel évènement historique célèbre-t-on en France le 14 juillet ?",
+			"background": "#f1c40f"
+		},
+
+		{
+			"question": "Qui était Steve Jobs ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Qu’est-ce qu’un ouistiti ?",
+			"background": "#d35400"
+		},
+
+
+		{
+			"question": "Pour quelle occasion a été construite la tour Eiffel ?",
+			"background": "#7f8c8d"
+		},
+
+
+		{
+			"question": "Dans quel pays a eu lieu la coupe du monde de 2018 ?",
+			"background": "#95a5a6"
+		},
+
+
+		{
+			"question": "Combien de pattes les araignées ont elles ?",
+			"background": "#e67e22"
+		},
+
+
+		{
+			"question": "Quelle est la capitale de la Suisse ?",
+			"background": "#95a5a6"
+		},
+
+
+		{
+			"question": "Dans quel musée se trouve la Joconde ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Comment se nomme le Français ayant participé à un voyage dans l’espace en 2018?",
+			"background": "#f1c40f"
+		},
+
+
+		{
+			"question": "Quelle est la langue la plus parlé dans le monde ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "De quel côté d’un bateau se trouve tribord ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Quelle planète appelle-t-on également la planète rouge ?",
+			"background": "#d35400"
+		},
+
+		{
+			"question": "Dans quel film de Steven Spielberg un extraterrestre « veut téléphoner maison » ?",
+			"background": "#7f8c8d"
+		},
+
+		{
+			"question": "Quelle est la capitale du brésil ?",
+			"background": ""
+		},
+
+		{
+			"question": "Par quel village anglais passe le méridien 0 ?",
+			"background": ""
+		},
+
+		{
+			"question": "Dans quel pays le président vit à la Maison-Blanche ?",
+			"background": ""
+		},
+
+		{
+			"question": "Comment appelle-t-on la piste où les avions décollent et atterrissent ?",
+			"background": ""
+		},
+
+		{
+			"question": "Quel pays a une feuille d’érable comme symbole nationale ?",
+			"background": ""
+		},
+
+		{
+			"question": "Dans quelle ville se trouve le Tower Bridge ?",
+			"background": ""
+		},
+
+		{
+			"question": "Que signifie PIB ?",
+			"background": ""
+		},
+
+		{
+			"question": "Que signifient les initiales LVMH ?",
+			"background": ""
+		},
+
+		{
+			"question": "Où se trouve la célèbre 5ème avenue ?",
+			"background": ""
+		},
+
+		{
+			"question": "Qui chante « Toi, ma belle Andalouse, aussi belle que jalouse » ?",
+			"background": ""
+		},
+
+		{
+			"question": "De quel pays vient l’équipe de rugby, les All Blacks ?",
+			"background": "#e67e22"
+		},
+
+		{
+			"question": "Combien de côté a un hexagone ?",
+			"background": "#27ae60"
+		},
+
+		{
+			"question": "En quelle année est sorti l'Iphone ?",
+			"background": "#1abc9c"
+		},
+
+		{
+			"question": "Dans quel film trouve-t-on la réplique « Comment est votre blanquette ? » ?",
+			"background": "#16a085"
+		}
+	]
+}
